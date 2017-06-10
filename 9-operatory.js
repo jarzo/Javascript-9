@@ -48,4 +48,15 @@ if ((liczba2 > 3) && (liczba2 < 10) ) {
 	console.log("tak")
 } 
 
+/* Operator warunkowy skrócona wersja if*/
+
+(2>5) ? console.log("tak") : console.log("nie");
+
+if(7>5) {
+	console.log("tak")
+}else {
+	console.log("nie");
+}
+
+
 
